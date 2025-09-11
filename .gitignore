@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# builds
+.next/
+dist/
+build/
+
+# misc
+.env
+.DS_Store
+
+ActivitiesReact/node_modules/
+
+nextjs-dashboard/node_modules/
